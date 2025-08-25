@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=B8B8B8"/>
 
-<h5 align="center">
+<h3 align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=ojuju&pause=1000&width=435&lines=Seja+bem-vindo%2C+Me+chamo+Levi;Sou+desenvolvedor+full-stack"/>
-</h5>
+</h3>
 <p align="left">Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack, especializado em Back-End com Java e Spring Boot e em constante aperfeiçoamento no Front-End com React e Angular. Possuo experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, JPA/Hibernate, PostgreSQL e APIs RESTful no back-end, além de atuar com React e Angular no front-end, criando interfaces dinâmicas, responsivas e integradas a serviços de API. Também aplico conhecimentos em Node.js, versionamento com Git/GitHub e práticas de containerização com Docker, unindo conceitos de desenvolvimento e infraestrutura para entregar soluções completas e eficientes</p>
 
 ###
@@ -41,7 +41,7 @@
 
 ###
 
-<p align="left">Meios de contato:</p>
+<h3align="left">Meios de contato:</h3>
 
 ###
 
