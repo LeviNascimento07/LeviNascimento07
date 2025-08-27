@@ -1,9 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=B8B8B8"/>
+<img src="https://ishan-rest.vercel.app/svg/banner/blackhole/Hello-Word"/>
 
 <h3 align="center">
   <img  src="https://readme-typing-svg.demolab.com?font=ojuju&pause=1000&width=435&lines=Seja+bem-vindo%2C+Me+chamo+Levi;Sou+desenvolvedor+full-stack"/>
 </h3>
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack, especializado em Back-End com Java e Spring Boot e em constante aperfeiçoamento no Front-End com React e Angular. Possuo experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, JPA/Hibernate, PostgreSQL e APIs RESTful no back-end, além de atuar com React e Angular no front-end, criando interfaces dinâmicas, responsivas e integradas a serviços de API. Também aplico conhecimentos em Node.js, versionamento com Git/GitHub e práticas de containerização com Docker, unindo conceitos de desenvolvimento e infraestrutura para entregar soluções completas e eficientes</p>
+<h5 align="left">Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack, especializado em Back-End com Java e Spring Boot e em constante aperfeiçoamento no Front-End com React e Angular. Possuo experiência prática no desenvolvimento de aplicações utilizando Java, Spring Boot, JPA/Hibernate, PostgreSQL e APIs RESTful no back-end, além de atuar com React e Angular no front-end, criando interfaces dinâmicas, responsivas e integradas a serviços de API. Também aplico conhecimentos em Node.js, versionamento com Git/GitHub e práticas de containerização com Docker, unindo conceitos de desenvolvimento e infraestrutura para entregar soluções completas e eficientes<h5/>
+
+
+
+###
+<h5>Estou em busca de uma oportunidade de estágio em Desenvolvimento Full Stack, com foco em Java/Spring Boot. Quero aplicar na prática os conhecimentos que venho adquirindo em projetos acadêmicos e pessoais, além de aprender com profissionais experientes para aprimorar minhas habilidades técnicas. Meu objetivo é evoluir como desenvolvedor, expandindo minha atuação em backend, frontend e práticas de DevOps, enquanto contribuo para a criação de soluções eficientes e de impacto para a equipe e para os projetos.<h5/>
 
 ###
 
@@ -15,36 +20,54 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">Main skills</h3>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" alt="docker logo"  />
+## 🧠 Linguagens
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
 </div>
 
-###
+## 🧩 Frameworks & Bibliotecas
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" alt="Angular" title="Angular"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" alt="React" title="React"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring.png" alt="Spring" title="Spring"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png" alt="Spring Boot" title="Spring Boot"/></code>
+</div>
+
+## 🗄️ Bancos de Dados
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sqlite.png" alt="SQLite" title="SQLite"/></code>
+</div>
+
+## ☁️ DevOps & Infra
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ci_cd.png" alt="CI/CD" title="CI/CD"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+</div>
+
+## 🛠️ Ferramentas
+<div >
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" alt="REST" title="REST"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/swagger.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/npm.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hibernate.png" alt="Hibernate" title="Hibernate"/></code>
+</div>
+
 
 <h3 align="left">Meios de contato:</h3>
-
-###
-
 <br clear="both">
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZW4yc3Rnb3U0NWZyNXplZXlqazVoNGxwOTkwMGVrdnVzZ21ucTdxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdPMeyv9rn0hZHh8n9/giphy.gif"  />
