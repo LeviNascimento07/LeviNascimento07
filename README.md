@@ -3,7 +3,7 @@
 </h3>
 
 <h5 align="left">
-Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack, especializado em Back-End com Java/Kotlin e Spring Boot, e em constante aperfeiçoamento no Front-End com Angular e React. Atualmente estagário em Desenvolvimento Full Stack na ACS Automação Comercial e Sistemas, onde trabalho com Java, Kotlin, Spring Boot no back-end e Angular no front-end. Possuo experiência prática no desenvolvimento de aplicações utilizando JPA/Hibernate, PostgreSQL e APIs RESTful, além de conhecimentos em Node.js, versionamento com Git/GitHub e práticas de containerização com Docker.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Full Stack, especializado em Back-End com Java/Kotlin e Spring Boot, e em constante aperfeiçoamento no Front-End com Angular e React. Atualmente estagário em Desenvolvimento Full Stack na ACS Automação Comercial e Sistemas, onde trabalho com Java, Kotlin, Spring Boot no back-end e Angular no front-end. Possuo experiência prática no desenvolvimento de aplicações utilizando JPA/Hibernate, PostgreSQL e APIs RESTful, além de conhecimentos em JavaScript e TypeScipt, versionamento com Git/GitHub e práticas de containerização com Docker.
 </h5>
 
 ###
